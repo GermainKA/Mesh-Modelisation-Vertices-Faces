@@ -1,2 +1,2 @@
 # Mesh-Modelisation-Vertices-Faces
-Mesh Modelisation based on vertices &amp; faces
+Mesh Modelisation based on vertices &amp; face
